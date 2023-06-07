@@ -6,4 +6,4 @@
 수직상하 : qe
 
 ## 졸업논문
-[클릭하세요](./graduation_thesis_201710327_GyeongRok_Min.pdf)
+[PDF 파일입니다. 클릭하세요](./graduation_thesis_201710327_GyeongRok_Min.pdf)
